@@ -1,12 +1,12 @@
-title: My Webpage
+title: Cool Contacts
 author: Matthew Chuah
 email: mrchuah@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  I like apple pie
+  Stop reading you've scrolled too far
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: applesuacefrommotts # DO NOT include the @ character, or else the build will fail!
+github_username:  BoomboomPow123 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
