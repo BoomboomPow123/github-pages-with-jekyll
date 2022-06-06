@@ -3,6 +3,7 @@ title: "Brag Sheet"
 date: 2022-06-06
 ---
 
-boom pow this is crazy
-
-![photos](https://user-images.githubusercontent.com/106985623/172203353-3fd037a8-e2a6-42f5-a0e9-3c67f10ab963.jpg)
+Achievements
+1. Safety Captain of Astraea Robotics
+2. Enrolled at the University of Illinois Urbana-Champaign
+3. Can play both the violin and piano
