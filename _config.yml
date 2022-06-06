@@ -2,7 +2,7 @@ title: Crazy Cool Page
 author: Matthew Chuah
 email: mrchuah@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Stop reading you've scrolled too far
+         Stop reading you've scrolled too far
 
 # social links
 instagram_username: applesuacefrommotts # DO NOT include the @ character, or else the build will fail!
